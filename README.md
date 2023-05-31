@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi there 👋 My name is Hudson and I'm a software engineering student from Canada. 
+My name is Hudson and I'm a software engineering student from Canada. 
 
 💬 Reach me by email or LinkedIn: lueric@live.ca | https://www.linkedin.com/in/hudson-lu
 <!--
