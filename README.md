@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Hudson and I'm a software engineering student from Canada. 
 
-💬 Reach me by email or LinkedIn: hudsonericlu@gmail.com| https://www.linkedin.com/in/hudson-lu
+💬 Reach me by email or LinkedIn: hudsonericlu@gmail.com | https://www.linkedin.com/in/hudson-lu
 
 <!--
 **HudsonLu/HudsonLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
