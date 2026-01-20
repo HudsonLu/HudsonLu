@@ -13,16 +13,10 @@
 
 ---
 
-### Snapshot
+### Work Experience
 - **Software Developer Intern — XTM (2025):** .NET + AngularJS/TS; MassTransit (RabbitMQ); **100+ merged PRs**
-- **R&T Intern — Bombardier (2024):** Python + Power BI automation (**40+ hrs/quarter saved**)
-- **Junior Analyst Intern — Infrastructure Canada (2024):** Python + SQL pipeline for **3,000+ projects**
-
-### Projects
-- **PlayLocal:** Next.js + Spring Boot + PostgreSQL + WebSockets + RabbitMQ  
-- **Concordia Mobile App:** React Native/Expo + Maps/Calendar APIs + Jest + Maestro  
-- **Delivery Platform:** React + Spring Boot + MySQL + Stripe + OpenAI  
-
+- **R&T Intern — Bombardier (2024):** Python + Power BI automation 
+- **Junior Analyst Intern — Infrastructure Canada (2024):** Python + SQL pipeline 
 ---
 
 ## Tech
@@ -32,13 +26,9 @@
   <img src="https://skillicons.dev/icons?i=java,cs,python,cpp,javascript,typescript,php,kotlin" />
 </p>
 
-**Frameworks**
+**Frameworks / Data / Cloud / Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,spring,dotnet,express" />
-</p>
-
-**Data / Cloud / Tools**
-<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,kubernetes,azure,git,github,postman,selenium,figma" />
 </p>
 
@@ -49,13 +39,6 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=HudsonLu&show_icons=true&theme=transparent" height="160" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HudsonLu&layout=compact&theme=transparent" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HudsonLu&theme=github" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=HudsonLu&theme=transparent" height="160" />
 </div>
-
-<!-- Momentum / activity (31-day activity graph) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HudsonLu&theme=github-compact&hide_border=true" />
-
-<!-- Polished “infographic” metrics (works as a single professional panel) -->
-<img src="https://metrics.lecoq.io/HudsonLu?template=classic&base=header%2Cactivity%2Crepositories&languages=1&activity=1&config.timezone=America%2FMontreal" />
-
-
