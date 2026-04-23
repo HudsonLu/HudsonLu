@@ -15,7 +15,7 @@
 
 ### Work Experience
 - **Software Developer Intern — Boston Scientific (2026):** Python + Automated testing + CAN bus / I2C
-- **Software Developer Intern — XTM (2025):** .NET + AngularJS/TS; MassTransit (RabbitMQ); **100+ merged PRs**
+- **Software Developer Intern — XTM (2025):** .NET + AngularJS/TS; MassTransit (RabbitMQ); **55 merged PRs**
 - **R&T Intern — Bombardier (2024):** Python + Power BI automation 
 - **Junior Analyst Intern — Infrastructure Canada (2024):** Python + SQL pipeline 
 ---
